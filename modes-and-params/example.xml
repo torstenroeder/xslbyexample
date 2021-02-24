@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>TEI by Example: Ausgabedokumente, Parameter und Modi</title>
+				<author>Torsten Roeder</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>free for all</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>out of nowhere</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Lorem ipsum</head>
+			<p>
+				<lb/><hi rend="#b">Lorem</hi> ipsum dolor sit amet, consec<pc>-</pc>
+				<lb break="no"/>tetur adipisici elit, sed eiusmod
+				<lb/>tempor incidunt ut labore et dolore
+				<lb/>magna aliqua.</p>
+			<p>
+				<lb/>Ut enim ad <choice><orig>minimae</orig><reg>minim</reg></choice> veniam, quis nostrud
+				<lb/>exercitation ullamco laboris nisi ut
+				<lb/>aliquid ex ea commodi consequat.</p>
+			<p>
+				<lb/>Quis aute iure reprehenderit in
+				<lb/>voluptate velit esse cillum dolore
+				<lb/>eu fugiat nulla pariatur.</p>
+			<p>
+				<lb/>Excepteur sint obcaecat cupiditat
+				<lb/>non proident, sunt in culpa qui
+				<lb/>officia deserunt mollit anim id est
+				<lb/>laborum.</p>
+		</body>
+	</text>
+</TEI>
