@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tage der Gefahr</title>
+				<author>Friedrich Rochlitz</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<ab>preliminal licence: CC BY-NC-ND 4.0</ab>
+			</publicationStmt>
+			<sourceDesc>
+				<listWit xml:id="witnesses">
+					<witness n="1816" xml:id="D1">
+						<bibl>
+							<author>Friedrich Rochlitz</author>
+							<title level="a">Tage der Gefahr</title>
+							<bibl>
+								<title level="m">Neue Erzählungen</title>
+								<biblScope unit="volume">2</biblScope>
+								<pubPlace>Leipzig/Züllichau</pubPlace>
+								<publisher>Darnmannsche Buchhandlung</publisher>
+								<date>1816</date>
+								<note>Druck: Friedrich Driemel, Lübben</note>
+								<biblScope unit="page">149–365</biblScope>
+							</bibl>
+						</bibl>
+					</witness>
+					<witness n="1822" xml:id="D2">
+						<bibl>
+							<author>Friedrich Rochlitz</author>
+							<title level="a">Tage der Gefahr</title>
+							<bibl>
+								<title level="m">Auswahl des Besten aus Friedrich Rochlitzʼ
+									sämmtlichen Schriften</title>
+								<biblScope unit="volume">6</biblScope>
+								<pubPlace>Züllichau</pubPlace>
+								<date>1822</date>
+							</bibl>
+							<biblScope unit="page">185–312</biblScope>
+						</bibl>
+					</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding location="internal" method="parallel-segmentation"/>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<p n="4" xml:id="p.2.4">So mehrt sich von Tag zu Tag, selbst für mich Einsamen, der
+				Anblick, nicht nur <pb edRef="#D1" n="167"/>des tausendgestaltigen Kriegselends,
+				sondern auch dessen, was <app>
+					<rdg wit="#D1"/>
+					<rdg wit="#D2">das innerste Menschengefühl</rdg>
+				</app> empört, selbst <app>
+					<rdg wit="#D1">das Volk, ja den Pöbel</rdg>
+					<rdg wit="#D2">beym Volk, ja beym Pöbel</rdg>
+				</app>. Franzosen von Einsicht und Bildung, spricht man mit ihnen darüber und über
+				dessen mögliche Folgen, zucken die Achseln, und lächeln mit jener Artigkeit, die
+				beschränkten, aber gutgemeynten <pb edRef="#D2" n="198"/>Urtheilen nicht wegwerfend
+				entgegentreten, ihnen sogar ein gewisses <app>
+					<rdg wit="#D1">unterordnendes</rdg>
+					<rdg wit="#D2">vornehmes</rdg>
+				</app> Anerkenntniß schenken will, aber doch zugleich nicht ganz verbergen kann und
+				soll, die Urtheile seyen schwach und nichtig. Gleichwol – sollten diese Manner sich,
+				eben beym Volke, eben beym deutschen Volke, nicht <app>
+					<rdg wit="#D1"/>
+					<rdg wit="#D2">doch endlich</rdg>
+				</app> irren? Wie wir nun hier umgeben und eingerammt sind, darf man nicht wagen,
+				gewisse Ideen schreibend zu verfolgen: an eine Mittheilung ohne ganz bestimmte,
+				irdische und verdächtige Zwecke glaubt keine französische Behörde. <pb edRef="#D1"
+					n="168"/>Spinne ich aber für mich aus, was sich nicht mehr abweisen lassen will:
+				so durchschauert mich ein Gefühl, das ich wahrlich nicht Furcht nennen kann, wenn es
+				auch nicht ohne diese ist. Ja, selbst diese Mischung <app>
+					<rdg wit="#D1"/>
+					<rdg wit="#D2">der Gedanken und Gefühle</rdg>
+				</app> ist wol <app>
+					<rdg wit="#D1">nur</rdg>
+					<rdg wit="#D2"/>
+				</app> einer der Momente, aus denen mir einzuleuchten anfängt, ich sey in etwa zwey
+				Jahren vielleicht um zehn älter geworden. Leider, leider! Aber zu verwundern istʼs
+				nicht: der Mensch wird überhaupt schnell alt bey vielem Neuen, so wie still bey
+				vielem Lärmen. — —</p>
+		</body>
+	</text>
+</TEI>

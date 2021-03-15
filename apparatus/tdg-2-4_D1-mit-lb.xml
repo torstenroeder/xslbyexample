@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tage der Gefahr</title>
+				<author>Friedrich Rochlitz</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<ab>preliminal licence: CC BY-NC-ND 4.0</ab>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Friedrich Rochlitz</author>
+					<title level="a">Tage der Gefahr</title>
+					<bibl>
+						<title level="m">Neue Erzählungen</title>
+						<biblScope unit="volume">2</biblScope>
+						<pubPlace>Leipzig/Züllichau</pubPlace>
+						<publisher>Darnmannsche Buchhandlung</publisher>
+						<date>1816</date>
+						<note>Druck: Friedrich Driemel, Lübben</note>
+						<biblScope unit="page">149–365</biblScope>
+					</bibl>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<pb edRef="#D1" n="166"/>
+			<gap/>
+			<p n="4" xml:id="p.2.4" xml:space="preserve">
+				<lb n="18"/>So mehrt sich von Tag zu Tag, selbst
+				<lb n="19"/>für mich Einsamen, der Anblick, nicht nur
+				<pb edRef="#D1" n="167"/>
+				<lb n="01"/>des tausendgestaltigen Kriegselends, sondern
+				<lb n="02"/>auch dessen, was empört, selbst das Volk,
+				<lb n="03"/>ja den Pöbel. Franzosen von Einsicht und
+				<lb n="04"/>Bildung, spricht man mit ihnen darüber und
+				<lb n="05"/>über dessen mögliche Folgen, zucken die Ach-
+				<lb n="06"/>seln, und lächeln mit jener Artigkeit, die
+				<lb n="07"/>beschränkten, aber gutgemeynten Urtheilen
+				<lb n="08"/>nicht wegwerfend entgegentreten, ihnen so-
+				<lb n="09"/>gar ein gewisses unterordnendes Anerkennt-
+				<lb n="10"/>niß schenken will, aber doch zugleich nicht
+				<lb n="11"/>ganz verbergen kann und soll, die Urtheile
+				<lb n="12"/>seyen schwach und nichtig. Gleichwol –
+				<lb n="13"/>sollten diese Männer sich, eben beym Volke,
+				<lb n="14"/>eben beym deutschen Volke, nicht irren?
+				<lb n="15"/>Wie wir nun hier umgeben und eingerammt
+				<lb n="16"/>sind, darf man nicht wagen, gewisse Ideen
+				<lb n="17"/>schreibend zu verfolgen: an eine Mittheilung
+				<lb n="18"/>ohne ganz bestimmte, irdische und verdäch-
+				<lb n="19"/>tige Zwecke glaubt keine französische Behörde.
+				<pb edRef="#D1" n="168"/>
+				<lb n="01"/>Spinne ich aber für mich aus, was sich
+				<lb n="02"/>nicht mehr abweisen lassen will: so durch-
+				<lb n="03"/>schauert mich ein Gefühl, das ich wahrlich
+				<lb n="04"/>nicht Furcht nennen kann, wenn es auch
+				<lb n="05"/>nicht ohne diese ist. Ja, selbst diese
+				<lb n="06"/>Mischung ist wol nur einer der Momente,
+				<lb n="07"/>aus denen mir einzuleuchten anfängt, ich sey
+				<lb n="08"/>in etwa zwey Jahren vielleicht um zehn älter
+				<lb n="09"/>geworden. Leider, leider! Aber zu ver-
+				<lb n="10"/>wundern istʼs nicht: der Mensch wird über-
+				<lb n="11"/>haupt schnell alt bey vielem Neuen, so wie
+				<lb n="12"/>still bey vielem Lärmen. — —
+			</p>
+		</body>
+	</text>
+</TEI>
