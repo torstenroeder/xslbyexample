@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+	xmlns="http://relaxng.org/ns/structure/1.0" xmlns:myns="http://my.namespace.org">
+
+	<!-- mit ROMA generiertes TEI-Schema importieren -->
+	<include href="myTEI.rng"/>
+
+	<!-- Element in eigenem Namespace hinzufügen -->
+	<!-- probeweise unter "tei_model.pLike" (Absätze) -->
+	<!-- combine="choice" bedeutet: Definitionen werden zusammengelegt -->
+	<define combine="choice" name="tei_model.pLike">
+
+		<!-- ganz oben unter "grammar" muss eigener Namespace deklariert sein (xmlns:...) -->
+		<!-- der Name des neuen Elements ist frei wählbar -->
+		<element name="gut" ns="http://my.namespace.org">
+
+			<!-- Dokumentation -->
+			<a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Mein
+				neues Element :)</a:documentation>
+
+			<!-- es ist ein Datentyp zu deklarieren -->
+			<data type="string"/>
+
+		</element>
+
+	</define>
+
+	<!-- Attribut zu einem TEI-Element hinzufügen -->
+	<define combine="choice" name="tei_att.global.attributes">
+		<attribute name="test" ns="http://my.namespace.org"/>
+	</define>
+	
+	<!-- Element im TEI-Namespace hinzufügen (böse!!!) -->
+	<!-- ähnlich wie oben, nur ohne Namespace -->
+	<!-- ggf. konfligiert der Name des neuen Elements mit bestehenden Definitionen -->
+	<define combine="choice" name="tei_model.pLike">
+		<element name="böse" ns="http://www.tei-c.org/ns/1.0">
+			<a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Das ist
+				keine gute Idee! :(</a:documentation>
+			<data type="string"/>
+		</element>
+	</define>
+
+</grammar>
