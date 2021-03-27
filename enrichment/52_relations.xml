@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:ecrm="http://erlangen-crm.org/current/"
+     xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/116410132</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/141885580</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/102139324X</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>Cecile Soria</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/118676423</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/118785028</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/118554751</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/118931482</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/116409746</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>Victorine Farrenc</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/118776223</ecrm:P67_refers_to>
+   </Description>
+   <Description rdf:about="https://en.wikipedia.org/wiki/Louise_Farrenc">
+      <ecrm:P67_refers_to>http://d-nb.info/gnd/116785063</ecrm:P67_refers_to>
+   </Description>
+</RDF>

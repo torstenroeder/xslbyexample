@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Register</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="d1e44">
+               <persName>
+                  <name>Muzio</name>
+                  <surname>Clementi</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e38">
+               <persName>
+                  <name>Jacques-Edme</name>
+                  <surname>Dumont</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e40">
+               <persName>
+                  <name>Auguste</name>
+                  <surname>Dumont</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e33">
+               <persName>
+                  <name>Louise</name>
+                  <surname>Farrenc</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e53">
+               <persName>
+                  <name>Aristide</name>
+                  <surname>Farrenc</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e58">
+               <persName>
+                  <name>Victorine</name>
+                  <surname>Farrenc</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e49">
+               <persName>
+                  <name>Johann</name>
+                  <name>Nepomuk</name>
+                  <surname>Hummel</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e60">
+               <persName>
+                  <name>Joseph</name>
+                  <surname>Joachim</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e65">
+               <persName>
+                  <name>Antoine</name>
+                  <name>François</name>
+                  <surname>Marmontel</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e46">
+               <persName>
+                  <name>Ignaz</name>
+                  <surname>Moscheles</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e51">
+               <persName>
+                  <name>Anton</name>
+                  <surname>Reicha</surname>
+               </persName>
+            </person>
+            <person xml:id="d1e42">
+               <persName>
+                  <name>Cecile</name>
+                  <surname>Soria</surname>
+               </persName>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

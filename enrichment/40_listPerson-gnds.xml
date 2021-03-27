@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Register</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>unpublished</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<listPerson>
+				<person xml:id="d1e44">
+					<persName>
+						<name>Muzio</name>
+						<surname>Clementi</surname>
+					</persName>
+					<idno type="GND" resp="manual">118676423</idno>
+				</person>
+				<person xml:id="d1e38">
+					<persName>
+						<name>Jacques-Edme</name>
+						<surname>Dumont</surname>
+					</persName>
+					<idno type="GND" resp="manual">141885580</idno>
+				</person>
+				<person xml:id="d1e40">
+					<persName>
+						<name>Augustin-Alexandre</name>
+						<surname>Dumont</surname>
+					</persName>
+					<idno type="GND" resp="manual">102139324X</idno>
+				</person>
+				<person xml:id="d1e33">
+					<persName>
+						<name>Louise</name>
+						<surname>Farrenc</surname>
+					</persName>
+					<idno type="GND" resp="manual">116410132</idno>
+				</person>
+				<person xml:id="d1e53">
+					<persName>
+						<name>Aristide</name>
+						<surname>Farrenc</surname>
+					</persName>
+					<idno type="GND" resp="manual">116409746</idno>
+				</person>
+				<person xml:id="d1e58">
+					<persName>
+						<name>Victorine</name>
+						<surname>Farrenc</surname>
+					</persName>
+					<idno type="VIAF" resp="manual">http://viaf.org/viaf/198155284782887061414</idno>
+				</person>
+				<person xml:id="d1e49">
+					<persName>
+						<name>Johann</name>
+						<name>Nepomuk</name>
+						<surname>Hummel</surname>
+					</persName>
+					<idno type="GND" resp="manual">118554751</idno>
+				</person>
+				<person xml:id="d1e60">
+					<persName>
+						<name>Joseph</name>
+						<surname>Joachim</surname>
+					</persName>
+					<idno type="GND" resp="manual">118776223</idno>
+				</person>
+				<person xml:id="d1e65">
+					<persName>
+						<name>Antoine</name>
+						<name>François</name>
+						<surname>Marmontel</surname>
+					</persName>
+					<idno type="GND" resp="manual">116785063</idno>
+				</person>
+				<person xml:id="d1e46">
+					<persName>
+						<name>Ignaz</name>
+						<surname>Moscheles</surname>
+					</persName>
+					<idno type="GND" resp="manual">118785028</idno>
+				</person>
+				<person xml:id="d1e51">
+					<persName>
+						<name>Anton</name>
+						<surname>Reicha</surname>
+					</persName>
+					<idno type="GND" resp="manual">118931482</idno>
+				</person>
+				<person xml:id="d1e42">
+					<persName>
+						<name>Cecile</name>
+						<surname>Soria</surname>
+					</persName>
+					<!--no GND found-->
+					<!--no VIAF found-->
+					<!--autocomplete source: http://lobid.org/gnd/search?q=Cecile%20Soria&filter=%2B(type%3APerson)&format=json-->
+				</person>
+			</listPerson>
+		</body>
+	</text>
+</TEI>

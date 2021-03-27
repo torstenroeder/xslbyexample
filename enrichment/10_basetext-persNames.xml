@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Louise Farrenc (extract)</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>CC BY-SA 3.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Louise Farrenc, in: Wikipedia, 27.03.2021.
+					<ref>https://en.wikipedia.org/wiki/Louise_Farrenc</ref></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Louise Farrenc</head>
+			<p><persName>Louise Farrenc</persName> (née Jeanne-Louise Dumont; 31 May 1804 – 15 September 1875) was a
+				French composer, virtuoso pianist and teacher.</p>
+			<p>Born Jeanne-Louise Dumont in Paris, she was the daughter of <persName>Jacques-Edme Dumont</persName>, a
+				successful sculptor, and sister to <persName>Auguste Dumont</persName>, also a sculptor. Louise Farrenc
+				enjoyed a considerable reputation during her own lifetime, as a composer, a
+				performer and a teacher. She began piano studies at an early age with <persName>Cecile
+				Soria</persName>,[1] a former student of <persName>Muzio Clementi</persName>. When it became clear she had the
+				ability to become a professional pianist she was given lessons by such masters as
+				<persName>Ignaz Moscheles</persName> and <persName>Johann Nepomuk Hummel</persName>, and, given the talent she showed as a
+				composer, her parents decided to let her, in 1819 at the age of fifteen, study
+				composition with <persName>Anton Reicha</persName>, the composition teacher at the Conservatoire,
+				although it is unclear if the young Louise Dumont followed his classes there, since
+				at that time the composition class was open only to men. In 1821 she married
+				<persName>Aristide Farrenc</persName>, a flute student ten years her senior, who performed at some of the
+				concerts regularly given at the artists' colony of the Sorbonne, where Louise's
+				family lived. Following her marriage, she interrupted her studies to give concerts
+				throughout France with her husband. He, however, soon grew tired of the concert life
+				and, with her help, opened a publishing house in Paris, which, as Éditions Farrenc,
+				became one of France's leading music publishers for nearly 40 years.</p>
+			<p>In Paris, Farrenc returned to her studies with Reicha, after which she reembarked on
+				a concert career, briefly interrupted in 1826 when she gave birth to a daughter,
+				<persName>Victorine</persName>, who also became a concert pianist but who died in 1859 aged thirty-three.
+				In the 1830s Farrenc gained considerable fame as a performer and her reputation was
+				such that in 1842 she was appointed to the permanent position of Professor of Piano
+				at the Paris Conservatory, a position she held for thirty years and one which was
+				among the most prestigious in Europe. Accounts of the time record that she was an
+				excellent instructor, with many of her students graduating with Premier Prix and
+				becoming professional musicians.[2] Despite this, Farrenc was paid less than her
+				male counterparts for nearly a decade.[3] Only after the triumphant premiere of her
+				nonet, at which the famous violinist <persName>Joseph Joachim</persName> took part, did she demand and
+				receive equal pay. Besides her teaching and performing career, she also produced and
+				edited an influential book, Le Trésor des Pianistes, about early music performance
+				style,[4] and was twice awarded the Prix Chartier of the Académie des Beaux-Arts, in
+				1861 and 1869.[5]</p>
+			<p>Farrenc died in Paris. For several decades after her death, her reputation as a
+				performer survived and her name continued to appear in such books as <persName>Antoine
+				François Marmontel’s</persName> Pianistes célèbres. Her nonet had achieved around 1850 some
+				popularity, as did her two piano quintets and her trios. But, despite some new
+				editions of her chamber music after her death, her works were largely forgotten
+				until, in the late 20th century, an interest in women composers[4][6] led to the
+				rediscovery – and thence to the performance and recording – of many of her
+				works.[7][8] In December 2013, Farrenc was the subject of the long-running BBC Radio
+				Three programme Composer of the Week.[9]</p>
+			<gap resp="tr"/>
+		</body>
+	</text>
+</TEI>

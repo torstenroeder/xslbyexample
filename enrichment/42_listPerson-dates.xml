@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Register</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="d1e44">
+               <persName>
+                  <name>Muzio</name>
+                  <surname>Clementi</surname>
+               </persName>
+               <idno type="GND" resp="manual">118676423</idno>
+               <birth resp="lobid">1752-01-23</birth>
+               <death resp="lobid">1832-03-10</death>
+               <!--data import source: http://lobid.org/gnd/118676423?format=json-->
+            </person>
+            <person xml:id="d1e38">
+               <persName>
+                  <name>Jacques-Edme</name>
+                  <surname>Dumont</surname>
+               </persName>
+               <idno type="GND" resp="manual">141885580</idno>
+               <birth resp="lobid">1761</birth>
+               <death resp="lobid">1844</death>
+               <!--data import source: http://lobid.org/gnd/141885580?format=json-->
+            </person>
+            <person xml:id="d1e40">
+               <persName>
+                  <name>Augustin-Alexandre</name>
+                  <surname>Dumont</surname>
+               </persName>
+               <idno type="GND" resp="manual">102139324X</idno>
+               <birth resp="lobid">1801</birth>
+               <death resp="lobid">1884</death>
+               <!--data import source: http://lobid.org/gnd/102139324X?format=json-->
+            </person>
+            <person xml:id="d1e33">
+               <persName>
+                  <name>Louise</name>
+                  <surname>Farrenc</surname>
+               </persName>
+               <idno type="GND" resp="manual">116410132</idno>
+               <birth resp="lobid">1804-05-31</birth>
+               <death resp="lobid">1875-09-15</death>
+               <!--data import source: http://lobid.org/gnd/116410132?format=json-->
+            </person>
+            <person xml:id="d1e53">
+               <persName>
+                  <name>Aristide</name>
+                  <surname>Farrenc</surname>
+               </persName>
+               <idno type="GND" resp="manual">116409746</idno>
+               <birth resp="lobid">1794-04-09</birth>
+               <death resp="lobid">1865-01-31</death>
+               <!--data import source: http://lobid.org/gnd/116409746?format=json-->
+            </person>
+            <person xml:id="d1e58">
+               <persName>
+                  <name>Victorine</name>
+                  <surname>Farrenc</surname>
+               </persName>
+               <idno type="VIAF" resp="manual">http://viaf.org/viaf/198155284782887061414</idno>
+            </person>
+            <person xml:id="d1e49">
+               <persName>
+                  <name>Johann</name>
+                  <name>Nepomuk</name>
+                  <surname>Hummel</surname>
+               </persName>
+               <idno type="GND" resp="manual">118554751</idno>
+               <birth resp="lobid">1778-11-14</birth>
+               <death resp="lobid">1837-10-17</death>
+               <!--data import source: http://lobid.org/gnd/118554751?format=json-->
+            </person>
+            <person xml:id="d1e60">
+               <persName>
+                  <name>Joseph</name>
+                  <surname>Joachim</surname>
+               </persName>
+               <idno type="GND" resp="manual">118776223</idno>
+               <birth resp="lobid">1831-06-28</birth>
+               <death resp="lobid">1907-08-15</death>
+               <!--data import source: http://lobid.org/gnd/118776223?format=json-->
+            </person>
+            <person xml:id="d1e65">
+               <persName>
+                  <name>Antoine</name>
+                  <name>François</name>
+                  <surname>Marmontel</surname>
+               </persName>
+               <idno type="GND" resp="manual">116785063</idno>
+               <birth resp="lobid">1816-07-18</birth>
+               <death resp="lobid">1898-01-16</death>
+               <!--data import source: http://lobid.org/gnd/116785063?format=json-->
+            </person>
+            <person xml:id="d1e46">
+               <persName>
+                  <name>Ignaz</name>
+                  <surname>Moscheles</surname>
+               </persName>
+               <idno type="GND" resp="manual">118785028</idno>
+               <birth resp="lobid">1794-05-23</birth>
+               <death resp="lobid">1870-03-10</death>
+               <!--data import source: http://lobid.org/gnd/118785028?format=json-->
+            </person>
+            <person xml:id="d1e51">
+               <persName>
+                  <name>Anton</name>
+                  <surname>Reicha</surname>
+               </persName>
+               <idno type="GND" resp="manual">118931482</idno>
+               <birth resp="lobid">1770-02-26</birth>
+               <death resp="lobid">1836-05-28</death>
+               <!--data import source: http://lobid.org/gnd/118931482?format=json-->
+            </person>
+            <person xml:id="d1e42">
+               <persName>
+                  <name>Cecile</name>
+                  <surname>Soria</surname>
+               </persName>
+               <!--no GND found-->
+               <!--no VIAF found-->
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Cecile%20Soria&filter=%2B(type%3APerson)&format=json-->
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

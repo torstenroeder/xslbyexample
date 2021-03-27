@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Register</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="d1e33">
+               <persName>Louise Farrenc</persName>
+            </person>
+            <person xml:id="d1e38">
+               <persName>Jacques-Edme Dumont</persName>
+            </person>
+            <person xml:id="d1e40">
+               <persName>Auguste Dumont</persName>
+            </person>
+            <person xml:id="d1e42">
+               <persName>Cecile
+				Soria</persName>
+            </person>
+            <person xml:id="d1e44">
+               <persName>Muzio Clementi</persName>
+            </person>
+            <person xml:id="d1e46">
+               <persName>Ignaz Moscheles</persName>
+            </person>
+            <person xml:id="d1e49">
+               <persName>Johann Nepomuk Hummel</persName>
+            </person>
+            <person xml:id="d1e51">
+               <persName>Anton Reicha</persName>
+            </person>
+            <person xml:id="d1e53">
+               <persName>Aristide Farrenc</persName>
+            </person>
+            <person xml:id="d1e58">
+               <persName>Victorine</persName>
+            </person>
+            <person xml:id="d1e60">
+               <persName>Joseph Joachim</persName>
+            </person>
+            <person xml:id="d1e65">
+               <persName>Antoine
+				François Marmontel’s</persName>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

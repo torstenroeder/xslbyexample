@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Register</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="d1e44">
+               <persName>
+                  <name>Muzio</name>
+                  <surname>Clementi</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/118676423</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/134689380</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/118647814</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/103859071</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/134357019</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1024744744</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/118809695</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1068829370</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/119501686</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/121963632</idno>
+               <!--total results: 12-->
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Muzio%20Clementi&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e38">
+               <persName>
+                  <name>Jacques-Edme</name>
+                  <surname>Dumont</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/141885580</idno>
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Jacques-Edme%20Dumont&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e40">
+               <persName>
+                  <name>Auguste</name>
+                  <surname>Dumont</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/115135094X</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1120052017</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/101993374</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/120032805</idno>
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Auguste%20Dumont&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e33">
+               <persName>
+                  <name>Louise</name>
+                  <surname>Farrenc</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/116410132</idno>
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Louise%20Farrenc&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e53">
+               <persName>
+                  <name>Aristide</name>
+                  <surname>Farrenc</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/116409746</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/116410132</idno>
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Aristide%20Farrenc&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e58">
+               <persName>
+                  <name>Victorine</name>
+                  <surname>Farrenc</surname>
+               </persName>
+               <!--no GND found-->
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Victorine%20Farrenc&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e49">
+               <persName>
+                  <name>Johann</name>
+                  <name>Nepomuk</name>
+                  <surname>Hummel</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/121297985</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/118554751</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/117739308</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/136214258</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/115603948</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/121059028X</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/117739294</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/117062324</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1025549589</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/135735378</idno>
+               <!--total results: 26-->
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Johann%20Nepomuk%20Hummel&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e60">
+               <persName>
+                  <name>Joseph</name>
+                  <surname>Joachim</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/120325829</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/118776223</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1174646713</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/100080030</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/121678563</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1017340897</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1160511381</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1157797369</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/100494072</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1058879014</idno>
+               <!--total results: 150-->
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Joseph%20Joachim&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e65">
+               <persName>
+                  <name>Antoine</name>
+                  <name>François</name>
+                  <surname>Marmontel</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/116785063</idno>
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Antoine%20François%20Marmontel&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e46">
+               <persName>
+                  <name>Ignaz</name>
+                  <surname>Moscheles</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/118785028</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/116935820</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/119233665</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/119011069</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/117742953</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1181224128</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/13631757X</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1146276001</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/116245247</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/132377721</idno>
+               <!--total results: 21-->
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Ignaz%20Moscheles&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e51">
+               <persName>
+                  <name>Anton</name>
+                  <surname>Reicha</surname>
+               </persName>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/118931482</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/102915504</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1143622731</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1020321776</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/1046666134</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/11980008X</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/130554294</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/134421809</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/130337684</idno>
+               <idno type="GND" resp="autocomplete">http://d-nb.info/gnd/124004946</idno>
+               <!--total results: 16-->
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Anton%20Reicha&filter=%2B(type%3APerson)&format=json-->
+            </person>
+            <person xml:id="d1e42">
+               <persName>
+                  <name>Cecile</name>
+                  <surname>Soria</surname>
+               </persName>
+               <!--no GND found-->
+               <!--autocomplete source: http://lobid.org/gnd/search?q=Cecile%20Soria&filter=%2B(type%3APerson)&format=json-->
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
