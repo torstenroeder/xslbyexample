@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TEI by Example: Europeana API</title>
+            <author>Torsten Roeder</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>free for all</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>out of nowhere</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Metadaten</head>
+         <list>
+            <item source="/15503/PA_RaraG3623">#Emil_Devrient_Bezug/Person</item>
+            <item source="/15503/GS_GFG8692_1">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8692_3">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8684_3">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8692_4">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8684_2">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8684_4">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8692">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8684">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8684_1">#Girolamo_Franceschini_Künstler</item>
+            <item source="/15503/GS_GFG8692_1">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/GS_GFG8692_3">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/GS_GFG8684_3">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/PA_RaraG3623">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/GS_GFG8692_4">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/GS_GFG8684_2">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/GS_GFG8684_4">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/GS_GFG8692">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/GS_GFG8684">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/GS_GFG8684_1">#Karl_Gutzkow_Autor/in</item>
+            <item source="/15503/PA_RaraG3623">#Marie_Pollert_Bezug/Person</item>
+            <item source="/08547/sgml_eu_php_obj_gr001118">Chodowiecka, Marianne (Zeichner)</item>
+            <item source="/08547/sgml_eu_php_obj_gr001137">Chodowiecka, Marianne (Zeichner)</item>
+         </list>
+      </body>
+   </text>
+</TEI>

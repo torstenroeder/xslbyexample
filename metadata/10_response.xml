@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns="http://www.w3.org/2005/xpath-functions">
+   <string key="apikey">*********</string>
+   <boolean key="success">true</boolean>
+   <number key="requestNumber">999</number>
+   <number key="itemsCount">12</number>
+   <number key="totalResults">575</number>
+   <array key="items">
+      <map>
+         <number key="completeness">8</number>
+         <array key="country">
+            <string>Germany</string>
+         </array>
+         <array key="dataProvider">
+            <string>Stadtgeschichtliches Museum Leipzig</string>
+         </array>
+         <array key="dcCreator">
+            <string>Chodowiecka, Marianne (Zeichner)</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>Chodowiecka, Marianne (Zeichner)</string>
+            </array>
+         </map>
+         <array key="dcDescription">
+            <string>bez. unt. d. Darstellung: Carl Gutzkow.</string>
+            <string>Aufbewahrung/Standort: Stadtgeschichtliches Museum Leipzig</string>
+            <string>Technik: Bleistift</string>
+         </array>
+         <map key="dcDescriptionLangAware">
+            <array key="def">
+               <string>bez. unt. d. Darstellung: Carl Gutzkow.</string>
+               <string>Aufbewahrung/Standort: Stadtgeschichtliches Museum Leipzig</string>
+               <string>Technik: Bleistift</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="def">
+               <string>Bildnis Karl Ferdinand Gutzkow</string>
+               <string>Zeichnung</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>08547_Ag_EU_ATHENA_Zuse-Institute_Berlin</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://museum.zib.de/sgml/eu.php?obj=gr001118</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://museum.zib.de/sgml/euimg.php?img=gr001118</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmuseum.zib.de%2Fsgml%2Feuimg.php%3Fimg%3Dgr001118&amp;type=IMAGE</string>
+         </array>
+         <array key="europeanaCollectionName">
+            <string>08547_Ag_EU_ATHENA_Zuse-Institute_Berlin</string>
+         </array>
+         <number key="europeanaCompleteness">8</number>
+         <string key="guid">https://www.europeana.eu/item/08547/sgml_eu_php_obj_gr001118?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/08547/sgml_eu_php_obj_gr001118</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/08547/sgml_eu_php_obj_gr001118.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Athena</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">22.31537</number>
+         <number key="timestamp">1613773032338</number>
+         <string key="timestamp_created">2014-06-27T09:52:24.819Z</string>
+         <number key="timestamp_created_epoch">1403862744819</number>
+         <string key="timestamp_update">2014-06-27T09:52:24.819Z</string>
+         <number key="timestamp_update_epoch">1403862744819</number>
+         <array key="title">
+            <string>Bildnis Karl Ferdinand Gutzkow</string>
+            <string>Zeichnung</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>de</string>
+            <string>deu</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>de</string>
+               <string>deu</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Richard Savage</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343454/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343454/GS_GFG8692_1.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343454%2FGS_GFG8692_1.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8692_1?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8692_1</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8692_1.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.959276</number>
+         <number key="timestamp">1613838279241</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Richard Savage</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>deu</string>
+            <string>de</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>deu</string>
+               <string>de</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Richard Savage</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343455/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343455/GS_GFG8692_3.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343455%2FGS_GFG8692_3.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8692_3?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8692_3</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8692_3.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.959276</number>
+         <number key="timestamp">1613838279271</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Richard Savage</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>deu</string>
+            <string>de</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>deu</string>
+               <string>de</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Die Schule der Reichen</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343551/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343551/GS_GFG8684_3.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343551%2FGS_GFG8684_3.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8684_3?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8684_3</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8684_3.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.90933</number>
+         <number key="timestamp">1613838277951</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Die Schule der Reichen</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">8</number>
+         <array key="country">
+            <string>Germany</string>
+         </array>
+         <array key="dataProvider">
+            <string>Stadtgeschichtliches Museum Leipzig</string>
+         </array>
+         <array key="dcCreator">
+            <string>Chodowiecka, Marianne (Zeichner)</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>Chodowiecka, Marianne (Zeichner)</string>
+            </array>
+         </map>
+         <array key="dcDescription">
+            <string>bez. unten li.: 30 July 41. Mitte: Karl Gutzkow.</string>
+            <string>Aufbewahrung/Standort: Stadtgeschichtliches Museum Leipzig</string>
+            <string>Technik: Bleistift</string>
+         </array>
+         <map key="dcDescriptionLangAware">
+            <array key="def">
+               <string>bez. unten li.: 30 July 41. Mitte: Karl Gutzkow.</string>
+               <string>Aufbewahrung/Standort: Stadtgeschichtliches Museum Leipzig</string>
+               <string>Technik: Bleistift</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="def">
+               <string>Bildnis Karl Ferdinand Gutzkow</string>
+               <string>Zeichnung</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>08547_Ag_EU_ATHENA_Zuse-Institute_Berlin</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://museum.zib.de/sgml/eu.php?obj=gr001137</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://museum.zib.de/sgml/euimg.php?img=gr001137</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmuseum.zib.de%2Fsgml%2Feuimg.php%3Fimg%3Dgr001137&amp;type=IMAGE</string>
+         </array>
+         <array key="europeanaCollectionName">
+            <string>08547_Ag_EU_ATHENA_Zuse-Institute_Berlin</string>
+         </array>
+         <number key="europeanaCompleteness">8</number>
+         <string key="guid">https://www.europeana.eu/item/08547/sgml_eu_php_obj_gr001137?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/08547/sgml_eu_php_obj_gr001137</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/08547/sgml_eu_php_obj_gr001137.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Athena</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.841225</number>
+         <number key="timestamp">1613773032892</number>
+         <string key="timestamp_created">2014-06-27T09:52:36.049Z</string>
+         <number key="timestamp_created_epoch">1403862756049</number>
+         <string key="timestamp_update">2014-06-27T09:52:36.049Z</string>
+         <number key="timestamp_update_epoch">1403862756049</number>
+         <array key="title">
+            <string>Bildnis Karl Ferdinand Gutzkow</string>
+            <string>Zeichnung</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">5</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Karl_Gutzkow_Autor/in</string>
+            <string>#Emil_Devrient_Bezug/Person</string>
+            <string>#Marie_Pollert_Bezug/Person</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Karl_Gutzkow_Autor/in</string>
+               <string>#Emil_Devrient_Bezug/Person</string>
+               <string>#Marie_Pollert_Bezug/Person</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>de</string>
+            <string>deu</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>de</string>
+               <string>deu</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Uriel Acosta</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1344159/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1344159/PA_RaraG3623.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1344159%2FPA_RaraG3623.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1848</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1848</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">5</number>
+         <string key="guid">https://www.europeana.eu/item/15503/PA_RaraG3623?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/PA_RaraG3623</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/PA_RaraG3623.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.809195</number>
+         <number key="timestamp">1613838312410</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Uriel Acosta</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>deu</string>
+            <string>de</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>deu</string>
+               <string>de</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Richard Savage</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343456/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343456/GS_GFG8692_4.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343456%2FGS_GFG8692_4.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8692_4?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8692_4</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8692_4.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.759483</number>
+         <number key="timestamp">1613838279303</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Richard Savage</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>deu</string>
+            <string>de</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>deu</string>
+               <string>de</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Die Schule der Reichen</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343549/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343549/GS_GFG8684_2.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343549%2FGS_GFG8684_2.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8684_2?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8684_2</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8684_2.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.709997</number>
+         <number key="timestamp">1613838277920</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Die Schule der Reichen</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>de</string>
+            <string>deu</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>de</string>
+               <string>deu</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Die Schule der Reichen</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343552/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343552/GS_GFG8684_4.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343552%2FGS_GFG8684_4.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8684_4?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8684_4</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8684_4.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.709997</number>
+         <number key="timestamp">1613838277979</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Die Schule der Reichen</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>deu</string>
+            <string>de</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>deu</string>
+               <string>de</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Richard Savage</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343453/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343453/GS_GFG8692.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343453%2FGS_GFG8692.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8692?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8692</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8692.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.592371</number>
+         <number key="timestamp">1613838279217</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Richard Savage</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>de</string>
+            <string>deu</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>de</string>
+               <string>deu</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Die Schule der Reichen</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343527/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343527/GS_GFG8684.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343527%2FGS_GFG8684.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8684?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8684</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8684.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.54328</number>
+         <number key="timestamp">1613838277855</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Die Schule der Reichen</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+      <map>
+         <number key="completeness">7</number>
+         <array key="country">
+            <string>Austria</string>
+         </array>
+         <array key="dataProvider">
+            <string>Theatermuseum Wien</string>
+         </array>
+         <array key="dcCreator">
+            <string>#Girolamo_Franceschini_Künstler</string>
+            <string>#Karl_Gutzkow_Autor/in</string>
+         </array>
+         <map key="dcCreatorLangAware">
+            <array key="def">
+               <string>#Girolamo_Franceschini_Künstler</string>
+               <string>#Karl_Gutzkow_Autor/in</string>
+            </array>
+         </map>
+         <array key="dcLanguage">
+            <string>deu</string>
+            <string>de</string>
+         </array>
+         <map key="dcLanguageLangAware">
+            <array key="def">
+               <string>deu</string>
+               <string>de</string>
+            </array>
+         </map>
+         <map key="dcTitleLangAware">
+            <array key="de">
+               <string>Die Schule der Reichen</string>
+               <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+            </array>
+         </map>
+         <array key="edmDatasetName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <array key="edmIsShownAt">
+            <string>http://www.theatermuseum.at/online-sammlung/detail/1343537/</string>
+         </array>
+         <array key="edmIsShownBy">
+            <string>http://imageapi.khm.at/images/1343537/GS_GFG8684_1.jpg</string>
+         </array>
+         <array key="edmPreview">
+            <string>https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimageapi.khm.at%2Fimages%2F1343537%2FGS_GFG8684_1.jpg&amp;type=IMAGE</string>
+         </array>
+         <array key="edmTimespanLabel">
+            <map>
+               <string key="def">1841-1846</string>
+            </map>
+         </array>
+         <map key="edmTimespanLabelLangAware">
+            <array key="def">
+               <string>1841-1846</string>
+            </array>
+         </map>
+         <array key="europeanaCollectionName">
+            <string>15503_Ag_AT_Kulturpool_khm_fs</string>
+         </array>
+         <number key="europeanaCompleteness">7</number>
+         <string key="guid">https://www.europeana.eu/item/15503/GS_GFG8684_1?utm_source=api&amp;utm_medium=api&amp;utm_campaign=NAxFYmkSV</string>
+         <string key="id">/15503/GS_GFG8684_1</string>
+         <number key="index">0</number>
+         <array key="language">
+            <string>de</string>
+         </array>
+         <string key="link">https://api.europeana.eu/record/15503/GS_GFG8684_1.json?wskey=NAxFYmkSV</string>
+         <boolean key="previewNoDistribute">false</boolean>
+         <array key="provider">
+            <string>Kulturpool</string>
+         </array>
+         <array key="rights">
+            <string>http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+         </array>
+         <number key="score">21.54328</number>
+         <number key="timestamp">1613838277889</number>
+         <string key="timestamp_created">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_created_epoch">1606124891575</number>
+         <string key="timestamp_update">2020-11-23T09:48:11.575Z</string>
+         <number key="timestamp_update_epoch">1606124891575</number>
+         <array key="title">
+            <string>Die Schule der Reichen</string>
+            <string>Titel der Serie: Neue Costume-Sammlung verschiedener Zeiten und Nationen</string>
+         </array>
+         <string key="type">IMAGE</string>
+         <array key="ugc">
+            <boolean>false</boolean>
+         </array>
+      </map>
+   </array>
+</map>

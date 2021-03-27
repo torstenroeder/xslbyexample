@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>TEI by Example: Europeana API</title>
+				<author>Torsten Roeder</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>free for all</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>out of nowhere</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>Metadaten</head>
+			<p/>
+		</body>
+	</text>
+</TEI>
