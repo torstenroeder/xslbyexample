@@ -20,4 +20,4 @@ This is a collection of some examples for XSL transformations, created for teach
 – template modes and parameter tunnelling in XSL
 
 **[regex](../../tree/main/regex)**
-- text annotation by regular expressions in XSL
+– text annotation by regular expressions in XSL
