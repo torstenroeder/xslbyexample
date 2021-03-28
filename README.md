@@ -18,3 +18,6 @@ This is a collection of some examples for XSL transformations, created for teach
 
 **[modes-and-tunnels](../../tree/main/modes-and-tunnels)**
 – template modes and parameter tunnelling in XSL
+
+**[regex](../../tree/main/regex)**
+- text annotation by regular expressions in XSL
