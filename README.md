@@ -1,4 +1,4 @@
-# xslt-by-example
+# XSL By Example
 
 This is a collection of some examples for XSL transformations, created for teaching purposes.
 
