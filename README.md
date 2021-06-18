@@ -21,3 +21,6 @@ This is a collection of some examples for XSL transformations, created for teach
 
 **[regex](../../tree/main/regex)**
 – text annotation by regular expressions in XSL
+
+**[zotero](../../tree/main/zotero)**
+– importing Zotero libraries with PHP, JavaScript, SSL and XSL
