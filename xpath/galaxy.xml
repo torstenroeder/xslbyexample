@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<universe>
+	<galaxy xml:id="Milkyway">
+		<star xml:id="Sun">
+			<planet xml:id="Mercury" type="terrestrial" distance="0.4" mass="0.055"/>
+			<planet xml:id="Venus" type="terrestrial" distance="0.7" mass="0.815"/>
+			<planet xml:id="Earth" type="terrestrial" distance="1.0" mass="1.000">
+				<moon xml:id="Moon"/>
+			</planet>
+			<planet xml:id="Mars" type="terrestrial" distance="1.5" mass="0.107">
+				<moon xml:id="Deimos"/>
+				<moon xml:id="Phobos"/>
+			</planet>
+			<asteroidBelt distance="2.3"/>
+			<planet xml:id="Ceres" type="dwarf" distance="2.77"/>
+			<planet xml:id="Jupiter" type="giant" distance="5.2" mass="318">
+				<moon xml:id="Ganymede"/>
+				<moon xml:id="Callisto"/>
+				<moon xml:id="Io"/>
+				<moon xml:id="Europa"/>
+				<!-- and 75 other satellites -->
+			</planet>
+			<planet xml:id="Saturn" type="giant" distance="9.5" mass="95">
+				<moon xml:id="Titan"/>
+				<moon xml:id="Enceladus"/>
+				<!-- and 80 other satellites -->
+			</planet>
+			<planet xml:id="Uranus" type="giant" distance="19.2" mass="14">
+				<moon xml:id="Titania"/>
+				<moon xml:id="Oberon"/>
+				<moon xml:id="Umbriel"/>
+				<moon xml:id="Ariel"/>
+				<moon xml:id="Miranda"/>
+				<!-- and 22 other satellites -->
+			</planet>
+			<planet xml:id="Neptune" type="giant" distance="30.1" mass="17">
+				<moon xml:id="Triton"/>
+				<!-- and 13 other satellites -->
+			</planet>
+			<planet xml:id="Pluto" type="dwarf" distance="39.0">
+				<moon xml:id="Charon"/>
+			</planet>
+		</star>
+		<star xml:id="Alpha_Centauri"/>
+	</galaxy>
+	<listExercise>
+		<exercise>
+			<q>all planets in the solar system with a moon</q>
+			<a>//planet[moon]</a>
+			<q>all planets in the solar system without a moon</q>
+			<a>//planet[not(moon)]</a>
+		</exercise>
+		<exercise>
+			<q>all moons that belong to a giant planet</q>
+			<a>//planet[@type='giant']/moon</a>
+			<a>//moon[parent::*/@type='giant']</a>
+			<q>all moons that do not belong to a giant planet</q>
+			<a>//planet[@type!='giant']/moon</a>
+			<a>//moon[../@type='giant']</a>
+		</exercise>
+		<exercise>
+			<q>all planets heavier than Earth</q>
+			<a>//planet[number(@mass) gt 1.000]</a>
+			<q>all planets heavier than Neptune</q>
+			<a>//planet[number(@mass) gt number(id('Uranus')/@mass)]</a>
+		</exercise>
+		<exercise>
+			<q>all moons</q>
+			<a>//moon</a>
+			<q>from Moon to all other moons (including Moon)</q>
+			<a>../..//moon</a>
+			<a>ancestor::star//moon</a>
+		</exercise>
+		<exercise>
+			<q>from Earth to Moon</q>
+			<a>moon</a>
+			<a>*</a>
+			<a>child::*</a>
+			<a>descendant::moon</a>
+			<q>from Moon to Earth</q>
+			<a>parent::*</a>
+			<a>../*</a>
+			<a>ancestor::planet</a>
+		</exercise>
+		<exercise>
+			<q>from Earth to all planets in the same solar system (including Earth)</q>
+			<a>ancestor::star//planet</a>
+			<q>from Earth to all planets in the same solar system (except Earth)</q>
+			<a>following-sibling::planet | preceding-sibling::planet</a>
+		</exercise>
+		<exercise>
+			<q>from Saturn to all planets closer to the sun</q>
+			<a>preceding-sibling::planet</a>
+			<q>from Sun to Saturn and all planets within</q>
+			<a>planet[position() lt 8]</a>
+			<a>planet[@xml:id='Saturn']/(. | preceding-sibling::planet)</a>
+		</exercise>
+		<exercise>
+			<q>from Universe to Uranus</q>
+			<a>//planet[@xml:id='Uranus']</a>
+			<q>from Uranus to Universe</q>
+			<a>../../../../.</a>
+			<a>ancestor::universe</a>
+		</exercise>
+		<exercise>
+			<q>from Earth to all dwarf planets</q>
+			<a>../../planet[@type='dwarf']</a>
+		</exercise>
+	</listExercise>
+</universe>
