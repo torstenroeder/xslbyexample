@@ -22,5 +22,8 @@ This is a collection of some examples for XSL transformations, created for teach
 **[regex](../../tree/main/regex)**
 – text annotation by regular expressions in XSL
 
+**[xpath](../../tree/main/xpath)**
+– training file for simple XPath expressions
+
 **[zotero](../../tree/main/zotero)**
 – importing Zotero libraries with PHP, JavaScript, SSL and XSL
